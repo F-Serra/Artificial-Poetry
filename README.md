@@ -135,4 +135,46 @@ verteilen. herausnehmen und in der pfanne rösten.
   Reinen öffnen in mein Geister! Soll bei.  
   ...
  </details>
+ 
+ <details> 
+  <summary>Collection of german nursery rhymes - input(kinder).txt, 143 KB: </summary>
+   
+  Der Sommer ist ein Lied sich freut,  
+  Welcher Schnee und Hasenbaum,  
+  Wenn der schmart er auf die Schlittschuh her -  
+  die schoene Zahl dasWasserreih  
+  und wir auf den Tannenbaum,  
+  Dann ist ein großer Schirmchen -  
+  Wir sind sie nicht vergessen,  
+  das ist der Schnee und Eis und Schnee.  
+  Das ist dieWolken sehr derWeihnachtszeit.  
+  
+  Der Schneemann lag der Sonne stueck  
+  Und du bist draußen leucht’  
+  ...
+ </details>
+ 
+  <details> 
+  <summary>Hyundai Ioniq Electro manual - input(ioniq).txt, 784 KB: </summary>
+   
+  Fahren Sie sich an keine  
+  Gegenstände auf den  
+  Sicherheitsgurte von der  
+  Stellung ON befindet.  
+  \- öffnen Sie die Batterie  
+  auf eine Personenschäden  
+  ausgestattet.  
+  \- Verwenden Sie einen  
+  Aufladung zu starten.  
+  \- Schalten Sie die Taste[SETUP] im  
+  Audiosystem des Beifahrer eingeschränkt  
+  wird, wird angezeigt.  
+  \- Ausführung Fahrzeuge zu  
+  vermeiden SieWasser oder  
+  der Nähe (z.B. dem Audiosystem  
+  vorliegt.  
+  ...
+ </details>
+ 
+Additional results can be found in the compilation 'poems_v2.pdf'.
 
