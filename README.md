@@ -1,7 +1,7 @@
 # Artificial-Poetry
 
 Generating text with the LSTM for next character prediction at https://github.com/sherjilozair/char-rnn-tensorflow.  
-Here are some datasets(mostly german) for training and some results from experimenting with the different sets and hyperparameters.
+Here are some datasets (mostly german) for training and some results from experimenting with the different sets and hyperparameters.
 Click to expand.
 
 
@@ -176,5 +176,8 @@ verteilen. herausnehmen und in der pfanne rösten.
   ...
  </details>
  
-Additional results can be found in the compilation 'poems_v2.pdf'.
+  
+  
+
+<br>Additional results can be found in the compilation 'poems_v2.pdf'.
 
